@@ -1,7 +1,7 @@
 # README
 
 ## Overview
-See paper This repository provides **three Python scripts** that implement three bilateral gradual semantics for **weighted argumentation graph**:
+This repository provides **three Python scripts** that implement three bilateral gradual semantics for **weighted argumentation graph**:
 
 1. **ARM_semantics_calculation.py** – AR-max-based semantics  
 2. **ARC_semantics_calculation.py** – AR-card-based semantics  
