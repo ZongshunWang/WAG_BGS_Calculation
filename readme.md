@@ -9,6 +9,7 @@ This repository provides **three Python scripts** that implement three bilateral
 
 These semantics and their properties are discussed in detail in our paper:
 
+
 > **Bilateral Gradual Semantics for Weighted Argumentation**  
 > Z. Wang, Y. Shen.  
 > *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024.  
