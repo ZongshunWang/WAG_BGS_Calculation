@@ -1,11 +1,18 @@
 # README
 
 ## Overview
-This repository provides **three Python scripts** that implement three bilateral gradual semantics for **weighted argumentation graph**:
+See paper This repository provides **three Python scripts** that implement three bilateral gradual semantics for **weighted argumentation graph**:
 
 1. **ARM_semantics_calculation.py** – AR-max-based semantics  
 2. **ARC_semantics_calculation.py** – AR-card-based semantics  
 3. **ARH_semantics_calculation.py** – AR-hybrid-based semantics  
+
+These semantics and their properties are discussed in detail in our paper:
+
+> **Bilateral Gradual Semantics for Weighted Argumentation**  
+> Z. Wang, Y. Shen.  
+> *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024.  
+> [\[URL\]](https://ojs.aaai.org/index.php/AAAI/article/view/28945)
 
 Each script reads `.bag` files, computes the acceptability \(\sigma^+(a)\) and rejectability \(\sigma^-(a)\) for each argument, iterates until convergence, and outputs both per-iteration details and final results. They serve as reference implementations to replicate or verify empirical findings related to bilateral gradual semantics in weighted argumentation.
 
