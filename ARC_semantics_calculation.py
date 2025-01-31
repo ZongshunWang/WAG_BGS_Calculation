@@ -4,7 +4,7 @@
 # Description:
 #   This script computes the bilateral gradual semantics (AR-card-based, ARC)
 #   for Weighted Argumentation Graphs (WAG). It reads .bag files containing
-#   arguments (with intrinsic weights) and attacks, then performs iterative
+#   arguments (basic weights) and attacks, then performs iterative
 #   updates until convergence or a maximum number of iterations.
 #
 # Usage:
